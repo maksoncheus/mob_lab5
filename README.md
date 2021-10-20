@@ -22,5 +22,5 @@
     }
 ```  
 Проверим работоспособность приложения:  
+![image info](/imgs/mob_lab5_5.jpg)  
 ![image info](/imgs/mob_lab5_4.jpg)
-![image info](/imgs/mob_lab5_5.jpg)
